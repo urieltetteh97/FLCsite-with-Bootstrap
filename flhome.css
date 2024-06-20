@@ -1,0 +1,25 @@
+.video-background-container {
+    position: relative;
+    width: 100%;
+    height: 100; /* Adjust as needed */
+    overflow: hidden;
+  }
+  
+  video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100; /* Adjust as needed */
+    object-fit: cover;
+  }
+  
+  .overlay h1 h2 {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%);
+    background-color: rgb(0, 0, 0,0.6); /* Choose color that stands out */
+    text-align: center;
+  }
+  
