@@ -23,5 +23,7 @@
     text-align: center;
   }
   
-
+.container div {
+    justify-content: center;
+}
  
