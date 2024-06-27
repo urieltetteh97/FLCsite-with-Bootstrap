@@ -23,7 +23,9 @@
     text-align: center;
   }
   
-.container div {
-    justify-content: center;
+
+.location{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
- 
