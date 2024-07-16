@@ -23,8 +23,9 @@
     text-align: center;
   }
 
-ul li a:hover {
-  color: aqua;
+  li a:hover{
+    color: darkcyan;
+
 }
   
 
